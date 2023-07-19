@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "React Fundamentals",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahd23/NReact.git"
+  },
+  "keywords": [],
+  "author": "Fahd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahd23/NReact/issues"
+  },
+  "homepage": "https://github.com/fahd23/NReact#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
