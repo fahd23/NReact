@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "React Fundamentals",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build indexx,html",
     "test": "jest"
   },
   "repository": {
